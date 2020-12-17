@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"sourceMap": true,
+		"noImplicitAny": true,
+		"module": "ESNext",
+		"target": "ES2020",
+		"strict": true,
+		"jsx": "preserve",
+		"allowJs": false,
+		"moduleResolution": "node",
+		"experimentalDecorators": true,
+		"skipLibCheck": false,
+		"strictNullChecks": true,
+		"types": ["node"]
+	}
+}
